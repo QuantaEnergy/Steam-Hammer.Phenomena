@@ -1,2 +1,2 @@
 - [What is Steam Hammer?](https://youtu.be/JyvoN1hIqRo)
-- 
+- https://practical.engineering/blog/2018/7/26/what-is-a-steam-hammer
