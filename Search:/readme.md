@@ -5,3 +5,5 @@ https://www.google.com/search?q=steam+hammer+boiler
 https://www.google.com/search?q=steam+hammer+turbine
 https://www.google.com/search?q=steam+hammer+damage
 https://www.google.com/search?q=steam+hammer+erosion
+https://www.google.com/search?q=steam+hammer+cavitation
+https://www.google.com/search?q=steam+hammer+engineering
